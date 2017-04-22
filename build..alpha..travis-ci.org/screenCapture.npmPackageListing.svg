@@ -1,0 +1,48 @@
+<svg height="718" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="718" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-22 14:32:36 +0000  6812120 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-22 14:32:36 +0000      981 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-22 14:32:36 +0000      949 bytes  LICENSE.txt</tspan>
+<tspan x="10" y="74">  3.  2017-04-22 14:32:36 +0000    16125 bytes  README.markdown</tspan>
+<tspan x="10" y="90">  4.  2017-04-22 14:32:36 +0000     1022 bytes  cpp/CMakeLists.txt</tspan>
+<tspan x="10" y="106">  5.  2017-04-22 14:32:36 +0000     1076 bytes  cpp/LICENSE</tspan>
+<tspan x="10" y="122">  6.  2017-04-22 14:32:36 +0000      809 bytes  cpp/Makefile</tspan>
+<tspan x="10" y="138">  7.  2017-04-22 14:32:36 +0000      432 bytes  cpp/README.md</tspan>
+<tspan x="10" y="154">  8.  2017-04-22 14:32:36 +0000     5917 bytes  cpp/UaParser.cpp</tspan>
+<tspan x="10" y="170">  9.  2017-04-22 14:32:36 +0000      946 bytes  cpp/UaParser.h</tspan>
+<tspan x="10" y="186"> 10.  2017-04-22 14:32:36 +0000     3666 bytes  cpp/UaParserTest.cpp</tspan>
+<tspan x="10" y="202"> 11.  2017-04-22 14:32:36 +0000     1402 bytes  cpp/main.cpp</tspan>
+<tspan x="10" y="218"> 12.  2017-04-22 14:32:36 +0000     6195 bytes  cpp/ua_parser.cpp</tspan>
+<tspan x="10" y="234"> 13.  2017-04-22 14:32:36 +0000     3220 bytes  cpp/ua_parser.h</tspan>
+<tspan x="10" y="250"> 14.  2017-04-22 14:32:36 +0000     5248 bytes  cpp/ua_parser_test.cpp</tspan>
+<tspan x="10" y="266"> 15.  2017-04-22 14:32:36 +0000     1769 bytes  js/LICENSE</tspan>
+<tspan x="10" y="282"> 16.  2017-04-22 14:32:36 +0000      925 bytes  js/index.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-22 14:32:36 +0000      874 bytes  js/lib/device.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-22 14:32:36 +0000      124 bytes  js/lib/helpers.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-22 14:32:36 +0000     1952 bytes  js/lib/os.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-22 14:32:36 +0000     1203 bytes  js/lib/results.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-22 14:32:36 +0000     1218 bytes  js/lib/ua.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-22 14:32:36 +0000     1915 bytes  js/test/device.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-22 14:32:36 +0000      336 bytes  js/test/helpers.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-22 14:32:36 +0000      850 bytes  js/test/old-api.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-22 14:32:36 +0000     3666 bytes  js/test/os.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-22 14:32:36 +0000      619 bytes  js/test/parse.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-22 14:32:36 +0000     3110 bytes  js/test/ua.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-22 14:32:36 +0000     2795 bytes  js/test/with_fixtures.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-22 14:32:36 +0000     2667 bytes  package.json</tspan>
+<tspan x="10" y="506"> 30.  2017-04-22 14:32:36 +0000    45607 bytes  regexes.yaml</tspan>
+<tspan x="10" y="522"> 31.  2017-04-22 14:32:36 +0000     5235 bytes  test_resources/additional_os_tests.yaml</tspan>
+<tspan x="10" y="538"> 32.  2017-04-22 14:32:36 +0000    27693 bytes  test_resources/firefox_user_agent_strings.txt</tspan>
+<tspan x="10" y="554"> 33.  2017-04-22 14:32:36 +0000    46443 bytes  test_resources/firefox_user_agent_strings.yaml</tspan>
+<tspan x="10" y="570"> 34.  2017-04-22 14:32:36 +0000  2057377 bytes  test_resources/pgts_browser_list-orig.yaml</tspan>
+<tspan x="10" y="586"> 35.  2017-04-22 14:32:36 +0000  1111221 bytes  test_resources/pgts_browser_list.txt</tspan>
+<tspan x="10" y="602"> 36.  2017-04-22 14:32:36 +0000  2138096 bytes  test_resources/pgts_browser_list.yaml</tspan>
+<tspan x="10" y="618"> 37.  2017-04-22 14:32:36 +0000    23671 bytes  test_resources/test_device.yaml</tspan>
+<tspan x="10" y="634"> 38.  2017-04-22 14:32:36 +0000    47958 bytes  test_resources/test_user_agent_parser.yaml</tspan>
+<tspan x="10" y="650"> 39.  2017-04-22 14:32:36 +0000    56544 bytes  test_resources/test_user_agent_parser_os.yaml</tspan>
+<tspan x="10" y="666"> 40.  2017-04-22 14:32:36 +0000     1372 bytes  test_resources/transform-pgts_browser_list.pl</tspan>
+<tspan x="10" y="682"> 41.  2017-04-22 14:32:36 +0000      349 bytes  tests/perf.js</tspan>
+<tspan x="10" y="698"> 42.  2017-04-22 14:32:36 +0000  1178543 bytes  tests/uas.js</tspan>
+</text>
+</svg>
